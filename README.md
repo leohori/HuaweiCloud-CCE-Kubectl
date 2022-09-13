@@ -2,7 +2,7 @@
 
 ## Description
 
-The Python Scripts allows to Awake and Hibernate a CCE cluster (Master and Workers Nodes) in a particular Project/Region.
+The Shell Script allows to quickly install and configure kubectl with a CCE cluster.
 
 ## Preparation
 
